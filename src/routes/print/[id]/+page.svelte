@@ -351,9 +351,9 @@ main  {
     }
 
     .p{
-        position: relative;
-        top: -1140px;
-        left: 510px;
+        position: absolute;
+        top: 150px;
+        left: 920px;
         display: flex;
 		flex-direction:column-reverse;
 		align-items:start;
@@ -474,4 +474,5 @@ main  {
 
 
     
+
 </main>
