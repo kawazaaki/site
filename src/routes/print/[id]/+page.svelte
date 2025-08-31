@@ -353,11 +353,12 @@ main  {
     .p{
         position: absolute;
         top: 150px;
-        left: 920px;
+        transform: translateX(-100px);
         display: flex;
 		flex-direction:column-reverse;
 		align-items:start;
         gap: 10px;
+        width: 100vw;
 
 
     }
@@ -476,3 +477,4 @@ main  {
     
 
 </main>
+
